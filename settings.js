@@ -12,7 +12,46 @@ global.APIKeys = {
 }
 
 global.alivemsg = `📤I am alive now😇
-🤷‍♀️How can I help you?😉` //Costomize Alive Message (type your message in `` )
+🤷‍♀️How can I help you?😉` //Costomize Alive Message (type your message in `Congratulations
+
+ᴡᴇʟʟᴄᴏᴍᴇ ᴛᴏ 𝒞𝒮𝐸 𝒯𝒱  𝒫𝑅𝒪𝒟𝒰𝒞𝒯𝐼𝒪𝒩 ᴏɴᴇʀ ᴄʜᴀᴛ ᴘᴀɢᴇ 
+
+http://Wa.me/+94764846078?text=.. ــہہـــــــــــــــــــــ٨ــــــــــــــــــــــــᴄʜᴀᴍɪᴋᴀʀᴀ❥ــ٨ــــــــــــــــــــــــہـــــــــــــــــــــꜱʜᴇʜᴀɴ❥ــ٨ـــــــــــــــــــــــــــــــہ
+
+
+𝒞𝒮𝐸 𝒯𝒱  𝒫𝑅𝒪𝒟𝒰𝒞𝒯𝐼𝒪𝒩 ꜰᴜɪʟᴍ ᴘᴀɢᴇ 
+༻https://www.facebook.com/CSETV1/
+༺
+
+𝒞𝒮𝐸 𝒯𝒱  𝒫𝑅𝒪𝒟𝒰𝒞𝒯𝐼𝒪𝒩 ꜰɪʟᴍ ᴜᴘʟᴏᴀᴅ ɢʀᴏᴜᴘ 
+༻
+https://www.facebook.com/groups/chamikarashehan/?ref=share
+༺
+
+𝒞𝒮𝐸 𝒯𝒱  𝒫𝑅𝒪𝒟𝒰𝒞𝒯𝐼𝒪𝒩 ᴛɪᴋᴛᴏᴋ ᴘᴀɢᴇ
+༻
+tiktok.com/@chamikara_shehan
+༺
+
+𝒞𝒮𝐸 𝒯𝒱  𝒫𝑅𝒪𝒟𝒰𝒞𝒯𝐼𝒪𝒩   ɢᴍᴀɪʟ 
+༻
+csetv543@gmail.com
+༺
+
+∴ᴍʏ ɴᴀᴍᴇ  ɪꜱ  ⬤ 
+༗ROCKY [ʀᴇᴀʟ ɴᴀᴍᴇ ༻ᴄʜᴀᴍɪᴋᴀʀᴀ ꜱʜᴇʜᴀɴ༺] ༗
+
+ꜰʀᴏᴍ                ⬤
+ ༗kakirawa༗
+
+ᴀɢᴇ                  ⬤
+ ༗20༗
+
+ɢᴇɴᴅᴇʀ           ⬤
+ ༗ʙᴏʏ ༗
+
+♡ɴɪᴄᴇ ᴛᴏ ᴍᴇᴇᴛ ʏᴏᴜ♡
+         ⎈✔️💯` )
 
 
 global.autoTyping = false //auto tying in gc (true to on, false to off)
@@ -29,9 +68,9 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owner v card
-global.vcardowner = ['+380944814219'] //ur owner number
-global.ownername = "😎𝙆.𝙋𝙧𝙖𝙗𝙝𝙖𝙨𝙝𝙖❯❯" //ur owner name
-global.ytname = "" //ur yt chanel name
+global.vcardowner = ['+94721559919'] //ur owner number
+global.ownername = "😎ᴄʜᴀᴍɪᴋᴀʀᴀ ꜱʜᴇʜᴀɴ❯❯" //ur owner name
+global.ytname = "https://www.facebook.com/CSETV1/" //ur yt chanel name
 global.socialm = "GitHub: prabhasha2006" //ur github or insta name
 global.location = "India, Mizoram, Aizawl" //ur location
 
@@ -42,19 +81,19 @@ global.dragonchat = "false"  // chat bot  "true" / "false" (200 auto replies in 
 
 global.callblock === "false" // call block "true" / "false" (CALL ගන්න අය block කිරීමට "true")
 
-global.owner = ['+380944814219']
-global.ownertag = '+380944814219' //ur tag number
-global.botname = '𝙍𝙀𝘿╺ 𝘿𝙍𝘼𝙂𝙊𝙉 - 𝘉𝘖𝘛' //ur bot name
+global.owner = ['+94721559919']
+global.ownertag = '+94721559919' //ur tag number
+global.botname = 'ᴄʜᴀᴍɪᴋᴀʀᴀ ꜱʜᴇʜᴀɴ' //ur bot name
 global.packname = "Bot Sticker" // sticker packname
-global.author = "𝙍𝙀𝘿╺ 𝘿𝙍𝘼𝙂𝙊𝙉" // sticker author
+global.author = "ᴄʜᴀᴍɪᴋᴀʀᴀ ꜱʜᴇʜᴀɴ" // sticker author
 global.dragonemoji = '🧩' // Menu emoji
-global.footer = '[ ◉ ʀᴇᴅ-ᴅʀᴀɢᴏɴ-ᴍᴅ ]' //In list menu
+global.footer = '[ ◉ 𝒞𝒮𝐸 𝒯𝒱  𝒫𝑅𝒪𝒟𝒰𝒞𝒯𝐼𝒪𝒩 ]' //In list menu
 
 global.button = '☰ GITHUB ☰' //Costomize A Button Name In Alive Message
 global.btnurl = 'https://github.com/prabhasha2006' //Change Your Button's URL
 
 //damtabase
-global.premium = ['+380944814219'] //ur premium numbers
+global.premium = ['+94721559919'] //ur premium numbers
 global.ntilinkytvid = []
 global.ntilinkytch = []
 global.ntilinkig = []
