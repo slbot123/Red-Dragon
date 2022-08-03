@@ -24,9 +24,9 @@ global.autoRecord = false //auto recording (true to on, false to off)
 global.available = true //auto available (true to on, false to off)
 
 //owner v card
-global.vcardowner = ['+380944814219'] //ur owner number
-global.ownername = "😎𝙆.𝙋𝙧𝙖𝙗𝙝𝙖𝙨𝙝𝙖❯❯" //ur owner name
-global.ytname = "" //ur yt chanel name
+global.vcardowner = ['+94721559919'] //ur owner number
+global.ownername = "😎ᴄʜᴀᴍɪᴋᴀʀᴀ ꜱʜᴇʜᴀɴ❯❯" //ur owner name
+global.ytname = "tiktok.com/@chamikara_shehan" //ur yt chanel name
 global.socialm = "GitHub: prabhasha2006" //ur github or insta name
 global.location = "India, Mizoram, Aizawl" //ur location
 
@@ -41,11 +41,11 @@ global.callblock === "false" // call block "true" / "false" (CALL ගන්න �
 global.owner = ['+380944814219']
 global.ownertag = '+380944814219' //your tag number
 global.premium = ['+380944814219'] //your premium numbers
-global.botname = '𝙍𝙀𝘿╺ 𝘿𝙍𝘼𝙂𝙊𝙉 - 𝘉𝘖𝘛' //your bot name
-global.packname = "𝙍𝙀𝘿╺ 𝘿𝙍𝘼𝙂𝙊𝙉" // sticker packname
+global.botname = '𝒞𝒮𝐸 𝒯𝒱  𝒫𝑅𝒪𝒟𝒰𝒞𝒯𝐼𝒪𝒩' //your bot name
+global.packname = "𝒞𝒮𝐸 𝒯𝒱  𝒫𝑅𝒪𝒟𝒰𝒞𝒯𝐼𝒪𝒩" // sticker packname
 global.author = "Bot Sticker" // sticker author
 global.dragonemoji = '🧩' // Menu emoji
-global.footer = '[ ◉ ʀᴇᴅ-ᴅʀᴀɢᴏɴ-ᴍᴅ ]' //In list menu
+global.footer = '[ ◉ 𝒞𝒮𝐸 𝒯𝒱  𝒫𝑅𝒪𝒟𝒰𝒞𝒯𝐼𝒪𝒩 ]' //In list menu
 
 global.button = '☰ GITHUB ☰' //Costomize A Button Name In Alive Message
 global.btnurl = 'https://github.com/prabhasha2006' //Change Your Button's URL
