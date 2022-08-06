@@ -13,45 +13,7 @@ global.APIKeys = {
 
 global.alivemsg = `*මොකද අලේ මන් ඔන්ලයි තමා ඉල්ලෙ අප්පා🤪 හාපෝ ඉතින් ඔයාලගෙන් තීන වදේ😇
 🤷‍♀️උඩ බලන් ඉන්නේ නැතුව දැන් ඉතින් කීනෝ මන් මොකද්ද කරන්න ඔනී😉*` //Costomize Alive Message (type your message in `Congratulations
-
-ᴡᴇʟʟᴄᴏᴍᴇ ᴛᴏ 𝒞𝒮𝐸 𝒯𝒱  𝒫𝑅𝒪𝒟𝒰𝒞𝒯𝐼𝒪𝒩 ᴏɴᴇʀ ᴄʜᴀᴛ ᴘᴀɢᴇ 
-
-http://Wa.me/+94764846078?text=.. ــہہـــــــــــــــــــــ٨ــــــــــــــــــــــــᴄʜᴀᴍɪᴋᴀʀᴀ❥ــ٨ــــــــــــــــــــــــہـــــــــــــــــــــꜱʜᴇʜᴀɴ❥ــ٨ـــــــــــــــــــــــــــــــہ
-
-
-𝒞𝒮𝐸 𝒯𝒱  𝒫𝑅𝒪𝒟𝒰𝒞𝒯𝐼𝒪𝒩 ꜰᴜɪʟᴍ ᴘᴀɢᴇ 
-༻https://www.facebook.com/CSETV1/
-༺
-
-𝒞𝒮𝐸 𝒯𝒱  𝒫𝑅𝒪𝒟𝒰𝒞𝒯𝐼𝒪𝒩 ꜰɪʟᴍ ᴜᴘʟᴏᴀᴅ ɢʀᴏᴜᴘ 
-༻
-https://www.facebook.com/groups/chamikarashehan/?ref=share
-༺
-
-𝒞𝒮𝐸 𝒯𝒱  𝒫𝑅𝒪𝒟𝒰𝒞𝒯𝐼𝒪𝒩 ᴛɪᴋᴛᴏᴋ ᴘᴀɢᴇ
-༻
-tiktok.com/@chamikara_shehan
-༺
-
-𝒞𝒮𝐸 𝒯𝒱  𝒫𝑅𝒪𝒟𝒰𝒞𝒯𝐼𝒪𝒩   ɢᴍᴀɪʟ 
-༻
-csetv543@gmail.com
-༺
-
-∴ᴍʏ ɴᴀᴍᴇ  ɪꜱ  ⬤ 
-༗ROCKY [ʀᴇᴀʟ ɴᴀᴍᴇ ༻ᴄʜᴀᴍɪᴋᴀʀᴀ ꜱʜᴇʜᴀɴ༺] ༗
-
-ꜰʀᴏᴍ                ⬤
- ༗kakirawa༗
-
-ᴀɢᴇ                  ⬤
- ༗20༗
-
-ɢᴇɴᴅᴇʀ           ⬤
- ༗ʙᴏʏ ༗
-
-♡ɴɪᴄᴇ ᴛᴏ ᴍᴇᴇᴛ ʏᴏᴜ♡
-         ⎈✔️💯` )
+` )
 
 
 global.autoTyping = false //auto tying in gc (true to on, false to off)
