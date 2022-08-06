@@ -11,8 +11,8 @@ global.APIKeys = {
 	'https://zenzapis.xyz': 'your key',
 }
 
-global.alivemsg = `📤I am alive now😇
-🤷‍♀️How can I help you?😉` //Costomize Alive Message (type your message in `Congratulations
+global.alivemsg = `*මොකද අලේ මන් ඔන්ලයි තමා ඉල්ලෙ අප්පා🤪 හාපෝ ඉතින් ඔයාලගෙන් තීන වදේ😇
+🤷‍♀️උඩ බලන් ඉන්නේ නැතුව දැන් ඉතින් කීනෝ මන් මොකද්ද කරන්න ඔනී😉*` //Costomize Alive Message (type your message in `Congratulations
 
 ᴡᴇʟʟᴄᴏᴍᴇ ᴛᴏ 𝒞𝒮𝐸 𝒯𝒱  𝒫𝑅𝒪𝒟𝒰𝒞𝒯𝐼𝒪𝒩 ᴏɴᴇʀ ᴄʜᴀᴛ ᴘᴀɢᴇ 
 
@@ -77,7 +77,7 @@ global.location = "India, Mizoram, Aizawl" //ur location
 //bot body 
 global.alivepic = `https://i.ibb.co/cyyCjN7/20220803-081426.png` // alive picture \\ use "https://ibb.com" to upload photos. < 1 MB
 
-global.dragonchat = "false"  // chat bot  "true" / "false" (200 auto replies in this)
+global.dragonchat = "true"  // chat bot  "true" / "false" (200 auto replies in this)
 
 global.callblock === "false" // call block "true" / "false" (CALL ගන්න අය block කිරීමට "true")
 
@@ -89,8 +89,8 @@ global.author = "ᴄʜᴀᴍɪᴋᴀʀᴀ ꜱʜᴇʜᴀɴ" // sticker author
 global.dragonemoji = '🧩' // Menu emoji
 global.footer = '[ ◉ 𝒞𝒮𝐸 𝒯𝒱  𝒫𝑅𝒪𝒟𝒰𝒞𝒯𝐼𝒪𝒩 ]' //In list menu
 
-global.button = '☰ GITHUB ☰' //Costomize A Button Name In Alive Message
-global.btnurl = 'https://github.com/prabhasha2006' //Change Your Button's URL
+global.button = '☰ ≼T≽≼I≽≼K≽ ≼T≽≼O≽≼K≽ ☰' //Costomize A Button Name In Alive Message
+global.btnurl = 'tiktok.com/@chamikara_shehan' //Change Your Button's URL
 
 //damtabase
 global.premium = ['+94721559919'] //ur premium numbers
@@ -120,13 +120,13 @@ global.prefa = ['','!','.','😂','❤️','💠'] //Command Prefix eg:(.alive ,
 global.sp = '💠'
 global.mess = {
     success: 'Done ✅',
-    admin: 'Only Admins can use it!😉',
-    botAdmin: 'Bot wants to be an Admin😥',
-    owner: 'Only Owner can use this!😉',
+    admin: 'මගේ එකාට විතරයි හ්ම්ම්!😉',
+    botAdmin: 'මට මගේ එකාව ඔනී...😥',
+    owner: 'මගේ එකාට විතලයි අලේ!😉',
     group: 'Feature Used Only For Groups!',
     private: 'This Features Only For Private Chat!',
     bot: 'This Feature Is Only For Bot😝',
-    wait: '👉👈Pleas Wait...',
+    wait: '👉👈අලේ ටිකක් ඉල්ලකෝ...',
     error: 'Error!!! Maybe Api Key Is Expired🤔!',
     endLimit: 'Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours',
     linkm: 'Where is the link?',
@@ -202,7 +202,7 @@ global.rep = { // All Replies = 145
     K3: '😉🫶හායි😂',
     K4: '🥴හූයි😊',
     K5: '😂හේයි, හව් ආ යූ🥴✌️',
-    K6: '😁Hey there💝 I am WhatsApp Bot😏',
+    K6: '😁හායි පැට්ටෝ💝 මාට කොල්ලෙක් ඉන්නෝ හරිතේ😏',
     K7: '❣️ඇයි හලෝ😌',
     K8: '🙃මොකෝ හලෝ🥲',
     K9: '😒මොකෝ?',
